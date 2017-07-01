@@ -30,7 +30,7 @@
 
   - Step 1: Tin the connection points on the Adafruit Trinket
 
-    ![Step 1: Tin the connection points on the Adafruit Trinket]](images/soldering-1.jpg)
+    ![Step 1: Tin the connection points on the Adafruit Trinket](images/soldering-1.jpg)
 
   - Step 2: Secure the JST connector and reheat the previously soldered connections to fuse them.
 
